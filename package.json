@@ -1,12 +1,12 @@
 {
-  "name": "Uzurion-Launcher",
+  "name": "Zelfyr-Launcher",
   "version": "2.0.7",
-  "productName": "Uzurion Launcher",
-  "description": "Launcher Mincraft custom (crack, premium)",
+  "productName": "Zelfyr Launcher",
+  "description": "Zelfyr Launcher Mincraft custom (crack, premium)",
   "main": "src/index.html",
-  "author": "Luuxis",
+  "author": "Wuger",
   "window": {
-    "title": "Uzurion update",
+    "title": "Zelfyr update",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -34,7 +34,7 @@
   },
   "license": "CC0",
   "build": {
-    "appId": "Uzurion Launcher",
+    "appId": "Zelfyr Launcher",
     "nwVersion": "0.60.0",
     "packed": true,
     "targets": [
@@ -73,16 +73,16 @@
     },
     "outputPattern": "${NAME}-${PLATFORM}",
     "win": {
-      "productName": "Uzurion Launcher",
-      "companyName": "Uzurion Launcher",
+      "productName": "Zelfyr Launcher",
+      "companyName": "Zelfyr Launcher",
       "copyright": "copyright",
       "icon": "src/assets/images/icons/icon.ico"
     },
     "mac": {
-      "displayName": "Uzurion-Launcher",
+      "displayName": "Zelfyr-Launcher",
       "copyright": "copyright",
       "plistStrings": {
-        "CFBundleIdentifier": "Uzurion-Launcher"
+        "CFBundleIdentifier": "Zelfyr-Launcher"
       }
     },
     "nsis": {
